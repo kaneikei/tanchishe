@@ -122,7 +122,7 @@ $(function(){
 	touch.on( '#sence' ,'swipe', function(e){
         e.preventDefault();
         if(e.direction){
-          direct =  e.direction;
+          fangxiang =  e.direction;
         }
       })
 
