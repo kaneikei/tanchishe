@@ -1,4 +1,4 @@
-body{background-image: url(../images/8.jpg);background-size: cover}
+/*body{background-image: url(../images/8.jpg);background-size: cover}*/
 
 #sence{width: 600px;height: 600px;border:1px solid black;margin:0 auto;background-color: #EDF2DE;opacity: 0.7}
 .block{width: 29px;height: 29px;margin-bottom: 1px ;margin-right: 1px;float: left;border-radius:5px;}
